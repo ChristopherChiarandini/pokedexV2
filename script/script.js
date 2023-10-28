@@ -17,5 +17,5 @@ const pokedex = fetch(url).then(async (res) => {
   icoPoke = pokeList[53].image;
 
   img.src = icoPoke;
-  //test
+  //ajoute une ligne test
 });
